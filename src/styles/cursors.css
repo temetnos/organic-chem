@@ -1,0 +1,69 @@
+.cursor-carbon::after {
+  content: 'C';
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 12px;
+  color: #1a1a1a;
+}
+
+.cursor-hydrogen::after {
+  content: 'H';
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 12px;
+  color: #1a1a1a;
+}
+
+.cursor-oxygen::after {
+  content: 'O';
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 12px;
+  color: #1a1a1a;
+}
+
+.cursor-nitrogen::after {
+  content: 'N';
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 12px;
+  color: #1a1a1a;
+}
+
+.cursor-bond1::after {
+  content: '―';
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 12px;
+  color: #1a1a1a;
+}
+
+.cursor-bond2::after {
+  content: '═';
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 12px;
+  color: #1a1a1a;
+}
+
+.cursor-bond3::after {
+  content: '≡';
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 12px;
+  color: #1a1a1a;
+}
+
+.cursor-move::after {
+  content: '✥';
+  font-size: 14px;
+  margin-left: 12px;
+  color: #1a1a1a;
+}
+
+.cursor-delete::after {
+  content: '⌫';
+  font-size: 14px;
+  margin-left: 12px;
+  color: #1a1a1a;
+}
