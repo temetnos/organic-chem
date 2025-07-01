@@ -1,41 +1,14 @@
-# Organik Molekül Çizim Oyunu
+This project is a mobile and web game developed to make learning organic chemistry more fun and interactive. Players build molecules using atoms like carbon, hydrogen, oxygen, and more, gaining knowledge and practice with fundamental bonding concepts.
 
-Bu uygulama, organik kimya öğrencileri için interaktif bir molekül çizim ve öğrenme platformudur.
+🎮 Features
+	•	Molecule creation (single, double, triple bonds)
+	•	Difficulty levels (easy, medium, hard)
+	•	Challenges based on real molecules
+	•	Gameplay focused on logical bond formation
+	•	Supports both English and Turkish languages
 
-## Test Etme Adımları
+⚙️ Installation
 
-1. Uygulamayı açın
-2. Ana menüden "Oyuna Başla" butonuna tıklayın
-3. Sol menüden atom ve bağ araçlarını kullanarak moleküller çizin
-4. Sağ paneldeki görevleri tamamlamaya çalışın
-5. "Hazır Yapılar" butonunu kullanarak önceden tanımlanmış molekül yapılarını ekleyin
-
-## Geri Bildirim
-
-Lütfen aşağıdaki konularda geri bildirim verin:
-
-1. Kullanım kolaylığı
-2. Oynanabilirlik
-3. Karşılaştığınız sorunlar
-4. İyileştirme önerileri
-
-Geri bildirimlerinizi `feedback.html` sayfasından iletebilirsiniz.
-
-## Özellikler
-
-- Atom ekleme (C, H, O, N)
-- Tekli, çift ve üçlü bağ oluşturma
-- Hazır molekül yapıları
-- Atom ve bağları taşıma
-- Silme işlemi
-- Görsel geri bildirim (cursor feedback)
-
-## Bilinen Sorunlar
-
-- Bazı molekül yapıları canvas sınırları dışına çıkabiliyor
-- Bağ çiziminde mesafe kontrolü yok
-- Molekül doğrulama sistemi geliştirilebilir
-
-## İletişim
-
-Herhangi bir sorun veya öneriniz için geri bildirim formunu kullanabilirsiniz.
+Requirements: Python 3, Kivy
+git clone https://github.com/temetnos/organic-chem.git
+npm run-dev
