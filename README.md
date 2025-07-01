@@ -8,7 +8,5 @@ This project is a mobile and web game developed to make learning organic chemist
 	•	Supports both English and Turkish languages
 
 ⚙️ Installation
-
-Requirements: Python 3, Kivy
 git clone https://github.com/temetnos/organic-chem.git
 npm run-dev
